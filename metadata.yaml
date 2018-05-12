@@ -1,0 +1,42 @@
+_repo: Armorel-of-LyonesseA-Romance-of-To-day_42125
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barnard, Frederick
+    aliases:
+    - Barnard, Fred. (Frederick)
+    - Barnard, F. (Frederick)
+    birthdate: 1846
+    deathdate: 1896
+    gutenberg_agent_id: '41534'
+    url: http://www.gutenberg.org/2009/agents/41534
+covers:
+- cover_type: archival
+  image_path: 42125-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Besant, Walter
+    aliases:
+    - Maurice, Walter
+    - Besant, Sir Walter
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '5404'
+    url: http://www.gutenberg.org/2009/agents/5404
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
+description: ''
+gutenberg_issued: '2013-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fraud -- Fiction'
+- !lcsh 'Isles of Scilly (England) -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+title: 'Armorel of Lyonesse: A Romance of To-day'
+url: http://www.gutenberg.org/ebooks/42125
